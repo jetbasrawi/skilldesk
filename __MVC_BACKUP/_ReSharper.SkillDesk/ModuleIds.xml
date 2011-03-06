@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5" ModuleId="SkillDesk.Domain" />
-  <Module PersistentId="84D33E8D-4C23-462D-8A8D-BDEDDD3C519E" ModuleId="SkillDesk.Web" />
-  <Module PersistentId="85DB8BD3-D4D4-4454-BC01-4B0356328DAC" ModuleId="SkillDesk.Tests" />
-  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Web" />
-</Modules>

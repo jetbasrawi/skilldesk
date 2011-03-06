@@ -1,4 +1,5 @@
 using System.IO;
+using System.Web;
 using System.Xml.Serialization;
 using SkillDesk.Domain.Abstract;
 using SkillDesk.Domain.Entities;
@@ -7,7 +8,7 @@ namespace SkillDesk.Domain.Concrete
 {
     public class XmlFileSkillProfileRepository : ISkillProfileRepository
     {
-        const string FileName = @"C:\SkillsDB\SkillProfile.xml";
+        const string FileName = @"C:\Projects\SkillDesk\SkillDesk.Web\App_Data\SkillProfile.xml";
        
         public void Save(SkillProfile skillProfile)
         {

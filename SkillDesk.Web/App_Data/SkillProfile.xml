@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<ArrayOfUserSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>2d75e599-0037-4196-8bc4-e7800e4acbfd</Id>
+    <SkillId>2</SkillId>
+    <SkillName>ASP.NET</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>23569a15-a83a-4d88-8b87-757483733d60</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Sql Server 2008</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>23569a15-a83a-4d88-8b87-757483733d60</ParentId>
+    <Id>dd63c829-7cfe-420c-b443-942063d41e34</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Stored Procedures</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>4aad7487-72d1-4707-9653-e80d88b4dfea</ParentId>
+    <Id>38b0754e-406e-4fae-bdc4-6bbaccac8ace</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Test Driven Development</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>c37c4cd9-7392-4bab-b560-bee9ce71968d</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>C#</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>2d75e599-0037-4196-8bc4-e7800e4acbfd</ParentId>
+    <Id>312e65ed-03da-45bd-a654-a5a373a3a199</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>ASP.NET MVC</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>2f5838fc-0168-4d48-88d8-809e6d31efc2</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>ASP.NET MVC</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>312e65ed-03da-45bd-a654-a5a373a3a199</ParentId>
+    <Id>8aaa96ca-4cf3-43bc-a119-259ad71255a7</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>ASP.NET MVC 3</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>312e65ed-03da-45bd-a654-a5a373a3a199</ParentId>
+    <Id>1626240d-6e12-4ef7-90cc-a17eb7d5aada</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Routing</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>312e65ed-03da-45bd-a654-a5a373a3a199</ParentId>
+    <Id>13c2d8f8-1309-4c94-804b-ed5fff509aeb</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Controllers</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>312e65ed-03da-45bd-a654-a5a373a3a199</ParentId>
+    <Id>6701567b-2eba-421a-b5cd-fde32639864d</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Model Binding</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>8f1413c1-7524-48e8-b0f9-990a4ecc8a57</ParentId>
+    <Id>50e11322-b757-4523-902f-6d69a7067179</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>EPiServer</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>8f1413c1-7524-48e8-b0f9-990a4ecc8a57</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>CMS</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>8f1413c1-7524-48e8-b0f9-990a4ecc8a57</ParentId>
+    <Id>1cb0caf1-e71d-4f11-9f53-89853b880a77</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>CMS Development</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>4aad7487-72d1-4707-9653-e80d88b4dfea</ParentId>
+    <Id>a0192004-9164-4cf5-b0a9-23c8e085a46b</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Design Patterns</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>a0192004-9164-4cf5-b0a9-23c8e085a46b</ParentId>
+    <Id>24caf51a-d525-4ea0-b357-53e24b6b7ca5</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Command Pattern</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>a0192004-9164-4cf5-b0a9-23c8e085a46b</ParentId>
+    <Id>7b02a4fc-2bfb-493e-ade1-23e46c6e2040</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Chain of responsibility</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>a0192004-9164-4cf5-b0a9-23c8e085a46b</ParentId>
+    <Id>5a6f9d64-d55c-4b15-a744-0aecb3ca7ed0</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>MVP</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>a0192004-9164-4cf5-b0a9-23c8e085a46b</ParentId>
+    <Id>ce0ecb42-d562-4e29-9a86-7579dc7f7df6</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Repository</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>a0192004-9164-4cf5-b0a9-23c8e085a46b</ParentId>
+    <Id>19ccf1d8-7b2b-4a50-8da3-63ecc90839a3</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Strategy</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>4aad7487-72d1-4707-9653-e80d88b4dfea</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Programming</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>043928cb-a957-45e1-8ac0-2f2a5d45efd9</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Template Creation</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>f3fd8b68-af41-4242-a459-aff7f222205a</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Configuration</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>95778ad8-6961-4ea9-9400-97fc8292f39e</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Dynamic Data Store</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>3eb7bbff-f4c2-430d-ad2f-ec3fb6ead03c</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Virtual Path Provider</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>5fa160d3-1897-4f0f-b8d7-99e1c295a1ee</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Tabs</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>7f35da05-4b53-4c69-afd1-ed402c652da4</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Publication Workflows</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>50e11322-b757-4523-902f-6d69a7067179</ParentId>
+    <Id>ef9a16d6-ddb2-4304-b698-7cade4f60d94</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Page Type Builder</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>b607a54c-9c1b-4455-ae09-1767401954a0</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>NUnit</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>45c1b1c9-244a-4686-924e-b1228c283151</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>MSTest</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>a4f21eea-c1af-42ef-b10b-4948832c2a20</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Moq</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>32ebf68b-b6e7-405a-9951-1c94edeb627c</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>AAA</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId>38b0754e-406e-4fae-bdc4-6bbaccac8ace</ParentId>
+    <Id>5c31e53c-4101-4aec-a05d-17de7e7bee81</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Rhino Mocks</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>301ec170-e558-447e-934f-31fc74e7b101</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Regular Expressions</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>f3ad68dd-ce44-4216-b246-7c2220b3b246</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>SpecFlow</SkillName>
+    <ExperienceType>
+      <Id>2</Id>
+      <Name>Interested</Name>
+      <Value>1.00</Value>
+      <Description>You are interested in this skill but have not yet developed any significant abillity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>f5a218f0-6c50-4c55-9e9e-eb095c95d908</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>BDD</SkillName>
+    <ExperienceType>
+      <Id>2</Id>
+      <Name>Interested</Name>
+      <Value>1.00</Value>
+      <Description>You are interested in this skill but have not yet developed any significant abillity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>d7d0134f-9e18-48f8-ab08-d8225d0c2ccd</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>YAGNI</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>c2551cf1-4072-4ad4-9df9-cf0facb72d09</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>T4 Templates</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>b5d9c370-ba7e-42c8-8180-42a8e36b857b</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Visual studio 2010</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+  <UserSkill>
+    <ParentId xsi:nil="true" />
+    <Id>705a2cd2-57c9-4614-adb9-899def1d2e58</Id>
+    <SkillId xsi:nil="true" />
+    <SkillName>Eclipse</SkillName>
+    <ExperienceType>
+      <Id>5</Id>
+      <Name>Commercial</Name>
+      <Value>3.00</Value>
+      <Description>You have practiced this skill in a commercial capacity.</Description>
+    </ExperienceType>
+  </UserSkill>
+</ArrayOfUserSkill>

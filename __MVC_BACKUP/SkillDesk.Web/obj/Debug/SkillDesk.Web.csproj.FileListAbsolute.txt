@@ -1,9 +1,0 @@
-C:\Projects\SkillDesk\SkillDesk.Web\bin\SkillDesk.Web.dll
-C:\Projects\SkillDesk\SkillDesk.Web\bin\SkillDesk.Web.pdb
-C:\Projects\SkillDesk\SkillDesk.Web\bin\Ninject.dll
-C:\Projects\SkillDesk\SkillDesk.Web\bin\SkillDesk.Domain.dll
-C:\Projects\SkillDesk\SkillDesk.Web\bin\SkillDesk.Domain.pdb
-C:\Projects\SkillDesk\SkillDesk.Web\bin\Ninject.xml
-C:\Projects\SkillDesk\SkillDesk.Web\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\SkillDesk\SkillDesk.Web\obj\Debug\SkillDesk.Web.dll
-C:\Projects\SkillDesk\SkillDesk.Web\obj\Debug\SkillDesk.Web.pdb
