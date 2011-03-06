@@ -1,0 +1,17 @@
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Tests.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Tests.pdb
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Moq.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Domain.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Web.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Ninject.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Microsoft.Web.Mvc.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Domain.pdb
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\SkillDesk.Web.pdb
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Moq.pdb
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Ninject.xml
+C:\Projects\SkillDesk\SkillDesk.Tests\bin\Debug\Microsoft.Web.Mvc.pdb
+C:\Projects\SkillDesk\SkillDesk.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SkillDesk\SkillDesk.Tests\obj\Debug\SkillDesk.Tests.dll
+C:\Projects\SkillDesk\SkillDesk.Tests\obj\Debug\SkillDesk.Tests.pdb

@@ -1,0 +1,26 @@
+﻿@model MoveUserSkillViewModel
+
+@{ ViewBag.Title = "Move"; }
+
+Moving: @Model.FromPath
+
+To: @Model.ToPath
+
+@using (Html.BeginForm(@Model.ActionName, "EditProfile"))
+{ 
+    @Html.HiddenFor(m => m.FromPath);
+    @Html.HiddenFor(m => m.ToPath);
+                                                    
+    <input type="submit" value="Here" />
+}                                                                                                          
+     <div id="select-skill-list">
+        <ul>
+        @foreach (var userSkill in Model.SkillProfile.GetChildren(Model.SkillProfile.GetUserSkill(Model.ToPath)).Children)
+        {
+            <li>
+                 @Html.ActionLink(userSkill.SkillName, Model.ActionName, "EditProfile", new { skillPath = @Model.FromPath + "/TO/" + @userSkill.GetSkillPath(@Model.SkillProfile) }, null)
+            </li>                                                                                                                
+        }
+
+        </ul>
+    </div>            

@@ -1,0 +1,471 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="22" />
+      <Item value="int" priority="7" />
+      <Item value="Skill`0" priority="15" />
+      <Item value="void" priority="6" />
+      <Item value="Should_Be_Able_To_Create_User_Account`0" priority="0" />
+      <Item value="new" priority="37" />
+      <Item value="User" priority="0" />
+      <Item value="prop" priority="7" />
+      <Item value="private" priority="2" />
+      <Item value="_skillsRepository" priority="16" />
+      <Item value="ViewResult`0" priority="10" />
+      <Item value="return" priority="18" />
+      <Item value="View`0" priority="8" />
+      <Item value="foreach" priority="1" />
+      <Item value="SkillDesk" priority="5" />
+      <Item value="skill" priority="17" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="using" priority="6" />
+      <Item value="System" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="IsPrimaryKey" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="IsDbGenerated" priority="0" />
+      <Item value="AutoSync`0" priority="1" />
+      <Item value="string" priority="17" />
+      <Item value="this" priority="1" />
+      <Item value="connectionString" priority="0" />
+      <Item value="SqlProductsRepository`0" priority="0" />
+      <Item value="connString" priority="0" />
+      <Item value="_skillsTable" priority="1" />
+      <Item value="Column" priority="2" />
+      <Item value="ComponentActivatorAttribute`0" priority="0" />
+      <Item value="_container" priority="0" />
+      <Item value="IComponentsInstaller`0" priority="0" />
+      <Item value="ISkillsRepository`0" priority="1" />
+      <Item value="skillsRepository" priority="2" />
+      <Item value="Bind`0" priority="1" />
+      <Item value="Test" priority="6" />
+      <Item value="UnitTestHelpers`0" priority="1" />
+      <Item value="Name" priority="3" />
+      <Item value="params" priority="0" />
+      <Item value="var" priority="18" />
+      <Item value="mockSkillsRepo" priority="1" />
+      <Item value="SkillsControllerTests`0" priority="2" />
+      <Item value="controller" priority="2" />
+      <Item value="result" priority="3" />
+      <Item value="displayedSkills" priority="1" />
+      <Item value="page" priority="1" />
+      <Item value="PageSize" priority="2" />
+      <Item value="null" priority="11" />
+      <Item value="PageInfo" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="HtmlHelper`0" priority="0" />
+      <Item value="pagingInfo" priority="3" />
+      <Item value="MockSkillsRepository`0" priority="0" />
+      <Item value="SkillsListViewModel`0" priority="0" />
+      <Item value="PagingInfo`0" priority="1" />
+      <Item value="ItemsPerPage" priority="0" />
+      <Item value="TotalItems" priority="0" />
+      <Item value="PagingInfo" priority="0" />
+      <Item value="viewModel" priority="0" />
+      <Item value="skillsToDisplay" priority="0" />
+      <Item value="tag" priority="0" />
+      <Item value="Html" priority="13" />
+      <Item value="List`0" priority="0" />
+      <Item value="category" priority="7" />
+      <Item value="s" priority="5" />
+      <Item value="CurrentCategory" priority="0" />
+      <Item value="Model" priority="9" />
+      <Item value="ConfigurationAllowDefinition`0" priority="0" />
+      <Item value="IQueryable`0" priority="2" />
+      <Item value="IQueryable" priority="0" />
+      <Item value="DataContext`0" priority="0" />
+      <Item value="_connectionString" priority="0" />
+      <Item value="x" priority="8" />
+      <Item value="as" priority="0" />
+      <Item value="DBNull`0" priority="0" />
+      <Item value="Ignore" priority="0" />
+      <Item value="IsSelected" priority="0" />
+      <Item value="selectedCategoryName" priority="0" />
+      <Item value="categoryName" priority="0" />
+      <Item value="makeLink" priority="0" />
+      <Item value="List&lt;Skill&gt;" priority="0" />
+      <Item value="ExperienceLevel`0" priority="2" />
+      <Item value="SkillProfileTests`0" priority="0" />
+      <Item value="Domain" priority="1" />
+      <Item value="Entities" priority="1" />
+      <Item value="SkillProfileItem`0" priority="0" />
+      <Item value="skillProfile" priority="12" />
+      <Item value="SkillProfile" priority="1" />
+      <Item value="Skill" priority="3" />
+      <Item value="Category" priority="2" />
+      <Item value="Id" priority="4" />
+      <Item value="skill1" priority="4" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="skillProfileItems" priority="3" />
+      <Item value="_skills" priority="3" />
+      <Item value="SkillProfileItem" priority="0" />
+      <Item value="skillToAdd" priority="1" />
+      <Item value="_skillToAdd" priority="0" />
+      <Item value="Request" priority="3" />
+      <Item value="ModelBinders`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="IModelBinder`0" priority="0" />
+      <Item value="mockRepo" priority="0" />
+      <Item value="SkillProfile`0" priority="5" />
+      <Item value="skillsController" priority="0" />
+      <Item value="ActionResult`0" priority="2" />
+      <Item value="SkillProfileController`0" priority="3" />
+      <Item value="RedirectToRouteResult`0" priority="2" />
+      <Item value="RedirectToAction`0" priority="1" />
+      <Item value="object" priority="3" />
+      <Item value="Profile" priority="0" />
+      <Item value="ReturnUrl" priority="0" />
+      <Item value="someurl" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="skillId" priority="4" />
+      <Item value="class" priority="0" />
+      <Item value="Controller`0" priority="0" />
+      <Item value="CartController`0" priority="0" />
+      <Item value="ComponentModel" priority="0" />
+      <Item value="DataAnnotations" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="_profileSaver" priority="1" />
+      <Item value="UserProfile`0" priority="2" />
+      <Item value="shippingDetails" priority="0" />
+      <Item value="skillProfileController" priority="0" />
+      <Item value="SkillsController`0" priority="0" />
+      <Item value="ResultExecutedContext`0" priority="1" />
+      <Item value="userProfile" priority="3" />
+      <Item value="if" priority="11" />
+      <Item value="ModelState`0" priority="3" />
+      <Item value="else" priority="3" />
+      <Item value="userPofile" priority="0" />
+      <Item value="FakeProfileSaver`0" priority="0" />
+      <Item value="psvm" priority="0" />
+      <Item value="indexer" priority="0" />
+      <Item value="index" priority="2" />
+      <Item value="_productsRepository" priority="0" />
+      <Item value="viewResult" priority="3" />
+      <Item value="postEventSourceID" priority="0" />
+      <Item value="TempData" priority="0" />
+      <Item value="Authorize" priority="0" />
+      <Item value="FormatException`0" priority="1" />
+      <Item value="logOnViewModel" priority="2" />
+      <Item value="ModelState" priority="2" />
+      <Item value="FormsAuthentication`0" priority="0" />
+      <Item value="model" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="Redirect`0" priority="0" />
+      <Item value="returnUrl" priority="0" />
+      <Item value="Url" priority="1" />
+      <Item value="HttpPost" priority="3" />
+      <Item value="action_POST" priority="0" />
+      <Item value="byte" priority="1" />
+      <Item value="FormMethod`0" priority="0" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="0" />
+      <Item value="HttpPostedFileBase" priority="0" />
+      <Item value="image" priority="5" />
+      <Item value="TryUpdateModel`1" priority="0" />
+      <Item value="mockRepository" priority="2" />
+      <Item value="Func&lt;IQueryable&lt;Skill&gt;&gt;" priority="0" />
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="FormCollection" priority="0" />
+      <Item value="PageRouteHandler`0" priority="0" />
+      <Item value="action_GET" priority="0" />
+      <Item value="SkillDetailViewModel`0" priority="0" />
+      <Item value="routeValues" priority="0" />
+      <Item value="SkillUiItem`0" priority="1" />
+      <Item value="Routes" priority="0" />
+      <Item value="RouteValueDictionary" priority="0" />
+      <Item value="skillName" priority="2" />
+      <Item value="skillCategory" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="name" priority="1" />
+      <Item value="DefaultControllerFactory`0" priority="0" />
+      <Item value="Render`0" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="viewName" priority="3" />
+      <Item value="RouteData" priority="0" />
+      <Item value="PartialView`0" priority="0" />
+      <Item value="Ninject" priority="0" />
+      <Item value="AjaxView`0" priority="0" />
+      <Item value="Skills" priority="2" />
+      <Item value="pageSize" priority="1" />
+      <Item value="pageNumber" priority="0" />
+      <Item value="SkillPageResult`0" priority="0" />
+      <Item value="SkillPageResult" priority="0" />
+      <Item value="r" priority="1" />
+      <Item value="SkillsPageResult`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Abstract.ISkillsRepository">
+      <Item value="Skills" priority="14" />
+      <Item value="SaveSkill`0" priority="2" />
+      <Item value="DeleteSkill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Entities.Skill">
+      <Item value="Name" priority="14" />
+      <Item value="ShortDescription" priority="2" />
+      <Item value="Category" priority="1" />
+      <Item value="IsTopLevel" priority="0" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="Id" priority="15" />
+      <Item value="ImageMimeType" priority="0" />
+      <Item value="ImageData" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Linq.Mapping.AutoSync">
+      <Item value="OnInsert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.DataContext">
+      <Item value="GetTable`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.Windsor.WindsorContainer">
+      <Item value="Register`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.MicroKernel.Registration.Component">
+      <Item value="For`5" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.ComponentRegistration">
+      <Item value="LifeStyle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Castle.MicroKernel.Registration.Lifestyle.LifestyleGroup`1">
+      <Item value="Is`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Castle.Core.LifestyleType">
+      <Item value="Transient" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingWhenInNamedWithOrOnSyntax`1">
+      <Item value="WithConstructorArgument`0" priority="0" />
+      <Item value="WhenInjectedInto`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="1" />
+      <Item value="Object" priority="1" />
+      <Item value="Verify`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`16" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Controllers.SkillsController">
+      <Item value="PageSize" priority="0" />
+      <Item value="List`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="ViewData" priority="0" />
+      <Item value="ShouldBeDefaultView`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="2" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Skip`1" priority="1" />
+      <Item value="Take`1" priority="1" />
+      <Item value="Count`1" priority="1" />
+      <Item value="Where`1" priority="1" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Distinct`1" priority="0" />
+      <Item value="AsEnumerable`1" priority="0" />
+      <Item value="Single`1" priority="0" />
+      <Item value="First`1" priority="3" />
+      <Item value="FirstOrDefault`1" priority="1" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.MvcHtmlString">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToHtmlString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SkillDesk.Tests.UnitTestHelpers">
+      <Item value="DefaultMockSkillsRepository`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.PagingInfo">
+      <Item value="CurrentPage" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.SkillsListViewModel">
+      <Item value="SkillsToDisplay" priority="3" />
+      <Item value="CurrentCategory" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="1" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="RenderPartial`0" priority="1" />
+      <Item value="BeginForm`0" priority="1" />
+      <Item value="HiddenFor`2" priority="1" />
+      <Item value="Hidden`0" priority="1" />
+      <Item value="EditorForModel`0" priority="0" />
+      <Item value="ActionLink`0" priority="1" />
+      <Item value="RouteLink`0" priority="0" />
+      <Item value="RenderAction`0" priority="1" />
+      <Item value="EditorFor`2" priority="0" />
+      <Item value="ValidationMessageFor`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DBNull">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Entities.SkillProfile">
+      <Item value="AddSkill`0" priority="3" />
+      <Item value="Skills" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SkillDesk.Domain.Entities.ExperienceLevel">
+      <Item value="Experienced" priority="1" />
+      <Item value="Inexperied" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Entities.SkillProfileItem">
+      <Item value="Skill" priority="6" />
+      <Item value="ExperienceLevel" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="RemoveRange`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="RemoveAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="PathAndQuery" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.ModelBinders">
+      <Item value="Binders" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelBinderDictionary">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.SkillProfileViewModel">
+      <Item value="Profile" priority="0" />
+      <Item value="ReturnUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Entities.UserProfile">
+      <Item value="Salary" priority="0" />
+      <Item value="Age" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Country" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Controllers.SkillProfileController">
+      <Item value="SaveProfile`0" priority="2" />
+      <Item value="ModelState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Domain.Services.IProfileSaver">
+      <Item value="SaveProfile`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="AddModelError`0" priority="1" />
+      <Item value="IsValid" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SqlServer.Server.Format">
+      <Item value="UserDefined" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.FormsAuthentication">
+      <Item value="Authenticate`0" priority="0" />
+      <Item value="SetAuthCookie`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.LogOnViewModel">
+      <Item value="UserName" priority="1" />
+      <Item value="Password" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.FormMethod">
+      <Item value="Post" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpPostedFileBase">
+      <Item value="ContentType" priority="0" />
+      <Item value="InputStream" priority="1" />
+      <Item value="ContentLength" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Controllers.AdminController">
+      <Item value="WithIncomingValues`1" priority="0" />
+      <Item value="Edit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionResult">
+      <Item value="ShouldBeRedirectionTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.SkillDetailViewModel">
+      <Item value="Skill" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SkillDesk.Web.Models.SkillUiItem">
+      <Item value="Skill" priority="5" />
+      <Item value="Routes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteData">
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="IsAjaxRequest`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlGenericControl">
+      <Item value="type" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="85DB8BD3-D4D4-4454-BC01-4B0356328DAC/f:CatalogBrowsingTests.cs" caret="1632" fromTop="11" />
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Abstract/f:ISkillsRepository.cs" caret="203" fromTop="8" />
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Entities/f:SkillProfile.cs" caret="441" fromTop="17" />
+      <File id="85DB8BD3-D4D4-4454-BC01-4B0356328DAC/f:SkillProfileTests.cs" caret="648" fromTop="18" />
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Entities/f:Skill.cs" caret="499" fromTop="16" />
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Concrete/f:SqlSkillsRepository.cs" caret="1005" fromTop="10" />
+      <File id="84D33E8D-4C23-462D-8A8D-BDEDDD3C519E/d:Views/d:Skills/f:List.cshtml" caret="406" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Concrete/f:SqlSkillsRepository.cs" caret="1869" fromTop="44" />
+      <File id="9B9CFDC5-3FE4-4039-A012-65DFF8243CF5/d:Concrete/f:SqlSkillsRepository.cs" caret="1825" fromTop="29" />
+      <File id="84D33E8D-4C23-462D-8A8D-BDEDDD3C519E/d:Views/d:Skills/f:List.cshtml" caret="341" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

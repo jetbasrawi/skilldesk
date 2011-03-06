@@ -1,0 +1,18 @@
+﻿@model SkillDesk.Web.Models.SkillsListViewModel
+
+<h2>List</h2>
+
+@*@foreach (var item in Model.SkillsToDisplay) {
+    @Using Html.BeginForm("AddSkill", "SkillProfile")
+        @Html.Hidden("skillId", @item.Skill.Id)
+        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+        <input type="submit" value="+ add to profile" />*@
+                                                               
+}
+<div class="pager">
+   @((System.Web.Mvc.WebViewPage)WebPageContext.Current.Page)Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page=x, category=Model.CurrentCategory}))
+</div>
+
+@section menu {
+    @{ Html.RenderAction("Menu", "Nav"); } 
+}

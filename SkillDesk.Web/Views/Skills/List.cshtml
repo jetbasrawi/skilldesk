@@ -1,0 +1,11 @@
+﻿@model SkillDesk.Web.Models.SkillsListViewModel
+
+@foreach (SkillDesk.Web.Models.SkillUiItem item in Model.SkillsToDisplay)
+{    
+    Html.RenderPartial("SkillSummary", item);    
+}
+
+<div class="pager">
+  @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+</div>
+

@@ -1,0 +1,39 @@
+﻿@model EditSkillProfileViewModel
+
+@{
+    ViewBag.Title = "SelectSkill";
+}
+
+<h2>SelectSkill</h2>
+
+@using (Html.BeginForm("Move", "EditProfile"))
+{ 
+    @Html.Serialize(Model.SkillPath);              
+    <input type="submit" value="Here" />
+                                                                                                           
+     <div id="select-skill-list">
+        <ul>
+        @foreach (var userSkill in Model.SkillProfile.GetChildren(Model.SkillProfile.GetUserSkill(Model.SkillPath)).Children)
+        {
+            <li>
+                <span class="select-skill-name">
+
+                @if (userSkill.Children.Count > 0)
+                {
+                    @Html.ActionLink(userSkill.SkillName, "Move", "EditProfile", new { })
+                }
+                else
+                { 
+                    @userSkill.SkillName
+                }
+        
+                </span>
+            </li>                                                                                                                
+        }
+
+        </ul>
+    </div>                               
+                                    
+                                    
+    
+}

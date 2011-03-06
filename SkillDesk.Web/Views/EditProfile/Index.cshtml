@@ -1,0 +1,14 @@
+﻿@model EditSkillProfileViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>@Model.SkillPath</h2>
+   
+@foreach (var userSkill in Model.SkillProfile.GetChildren(Model.CurrentSkill).Children)
+{
+    var s = userSkill.Children.Count < 1 ? Model.SkillProfile.GetChildren(userSkill) : userSkill;
+    Html.RenderPartial("~/Views/SkillProfile/_EditUserSkillSummary.cshtml", new UserSkillViewModelItem(s, Model.SkillProfile));
+}

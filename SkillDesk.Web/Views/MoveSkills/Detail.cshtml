@@ -1,0 +1,16 @@
+﻿
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>@Model.UserSkill.SkillName</h2>
+
+<ul>
+@foreach (var userSkill in @Model.UserSkill.Children)
+{
+    <li>@Html.ActionLink(@userSkill.SkillName, "Detail", new { userSkillId = userSkill.Id })</li>    
+}
+</ul>
+
+

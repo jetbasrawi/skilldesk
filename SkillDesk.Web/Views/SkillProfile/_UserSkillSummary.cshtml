@@ -1,0 +1,21 @@
+﻿@model UserSkillViewModelItem
+
+<div class="profile-skill-item">
+    @{ string skillPath = @Model.UserSkill.GetSkillPath(@Model.SkillProfile); }
+    <span class="skill-name">@Html.ActionLink(@Model.UserSkill.SkillName ?? "NULL", "Index", "SkillProfile", new { skillPath = skillPath }, null)
+    </span>
+    <span class="skill-summary">@Model.UserSkill.Summary</span>  
+
+    @if (Model.UserSkill.Children.Count > 0)
+    {
+        <ul>
+        @foreach (var skill in Model.UserSkill.Children)
+        {
+            <li>@Html.ActionLink(@skill.SkillName, "Index", "SkillProfile", new { skillPath = skill.GetSkillPath(Model.SkillProfile) }, null)</li>          
+        }   
+        </ul>
+    }
+</div>
+
+
+

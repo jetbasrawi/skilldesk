@@ -1,0 +1,5 @@
+C:\Projects\SkillDesk\SkillDesk.Extensions\bin\Debug\SkillDesk.Extensions.dll
+C:\Projects\SkillDesk\SkillDesk.Extensions\bin\Debug\SkillDesk.Extensions.pdb
+C:\Projects\SkillDesk\SkillDesk.Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SkillDesk\SkillDesk.Extensions\obj\Debug\SkillDesk.Extensions.dll
+C:\Projects\SkillDesk\SkillDesk.Extensions\obj\Debug\SkillDesk.Extensions.pdb

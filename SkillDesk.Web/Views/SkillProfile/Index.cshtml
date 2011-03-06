@@ -1,0 +1,31 @@
+﻿@model SkillDesk.Web.Models.SkillProfileViewModel
+
+@{
+    ViewBag.Title = "ViewProfile";
+}
+
+@{ Html.RenderPartial("~/Views/Shared/_SkillPathControl.cshtml", new SkillPathViewModel(Model.SkillPath)); } 
+
+<div id="skill-profile">
+
+@if(!string.IsNullOrEmpty(@Model.SkillPath))
+{
+    <div class="edit-controls">
+
+    @Html.ActionLink("Move", "Move", "EditProfile", new { skillPath = Model.SkillPath }, null)  
+    @Html.ActionLink("Delete", "Delete", "EditProfile", new { skillPath = Model.SkillPath }, null)  
+    @Html.ActionLink("Copy", "Copy", "EditProfile", new { skillPath = Model.SkillPath }, null)  
+
+    </div>
+    <br />
+    <br />
+}
+   
+@foreach (var userSkill in Model.SkillProfile.GetChildren(Model.CurrentSkill).Children)
+{
+    var s = userSkill.Children.Count < 1 ? Model.SkillProfile.GetChildren(userSkill) : userSkill;
+    Html.RenderPartial("~/Views/SkillProfile/_UserSkillSummary.cshtml", new UserSkillViewModelItem(s, Model.SkillProfile));
+}
+
+</div>
+ 

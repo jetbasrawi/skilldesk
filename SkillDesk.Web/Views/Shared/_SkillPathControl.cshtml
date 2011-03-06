@@ -1,0 +1,7 @@
+﻿@model SkillPathViewModel
+/ @Html.ActionLink("Skill Profile", "Index", "SkillProfile", new { skillPath = string.Empty }, null)
+@foreach (var item in Model.SkillPath.PathItems)
+{ 
+   <text>/</text> @Html.ActionLink(item.Name, "Index", "SkillProfile", new { skillPath = item.FullPath }, null)
+}
+

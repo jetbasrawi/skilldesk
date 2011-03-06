@@ -1,0 +1,47 @@
+﻿@model SkillDesk.Web.Controllers.MoveSkillViewModel
+
+@{
+    ViewBag.Title = "Move";
+}
+
+<h2>Move</h2>
+
+
+<ul>
+<li>Select the destinations for the selected skills.</li>
+<li>Click on a skill name to drill down further.</li>
+<li>Click done.</li>
+</ul>
+
+@using (Html.BeginForm()) {
+    @Html.Serialize("moveSkillViewModel", Model)   
+
+
+<div id="move-skill-list">
+<ul>
+@foreach (var userSkill in Model.Root.Children)
+{
+    <li>
+        <input type="checkbox" name="TargetItems" value="@userSkill.Id" />
+
+        <span class="move-skill-name">
+
+        @if (userSkill.Children.Count > 0)
+        {
+            @Html.ActionLink(userSkill.SkillName, "MoveSkill", new { rootId = userSkill.Id, selectedItems = Model.SelectedItems })
+        }
+        else
+        { 
+            @userSkill.SkillName
+        }
+        
+        </span>
+    </li>                                                                                                                
+}
+
+</ul>
+</div>
+
+<input type="submit" value="Done" />
+    
+}
