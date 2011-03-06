@@ -30,6 +30,7 @@ namespace SkillDesk.Domain.Entities
         [Column]
         public string ImageMimeType { get; set; }
         
+
         public Skill()
         {
         }
